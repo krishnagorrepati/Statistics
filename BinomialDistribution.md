@@ -9,5 +9,5 @@
 
 
 
-[](https://www.statisticshowto.datasciencecentral.com/probability-and-statistics/binomial-theorem/binomial-experiment/)
+[Please refer this link for more details on Binomial distribution](https://www.statisticshowto.datasciencecentral.com/probability-and-statistics/binomial-theorem/binomial-experiment/)
 
